@@ -1,0 +1,23 @@
+features:
+  categorical_features: [
+        "workclass",
+        "education",
+        "marital-status",
+        "occupation",
+        "relationship",
+        "race",
+        "sex",
+        "native-country",
+    ]
+  all_features: [ 'age',
+      'workclass',
+      'fnlgt',
+      'education',
+      'marital_status',
+      'occupation',
+      'relationship',
+      'race',
+      'sex',
+      'hours_per_week',
+      'native_country'
+    ]
