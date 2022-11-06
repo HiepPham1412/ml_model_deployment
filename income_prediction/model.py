@@ -63,8 +63,9 @@ def inference(model, X):
         Predictions from the model.
     """
     preds = model.predict(X)
-    
+
     return preds
+
 
 def validate_performance_on_sliced_data(model, encoder, lb, data, stats_path):
     """_summary_
@@ -96,11 +97,9 @@ def validate_performance_on_sliced_data(model, encoder, lb, data, stats_path):
                                                     training=False,
                                                     encoder=encoder,
                                                     lb=lb,
-                                                )
+                                                    )
                 y_test_hat = inference(model, X_test)
                 precision, recall, fbeta = compute_model_metrics(y_test, y_test_hat)
                 performance_metrics = f"precision: {precision: .3f}, recall: {recall:.3f}, fbeta: {fbeta: .3f}"
                 file.write(performance_metrics + '\n')
-    
-
-
+    return None

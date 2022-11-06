@@ -7,12 +7,14 @@ import logging
 from joblib import dump
 import os
 
-root_path = os.path.abspath(os.path.join(os.path.dirname(__file__),".."))
+
+root_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 logging.basicConfig(
     format="%(asctime)s : %(levelname)s : %(message)s",
     level=logging.INFO,
     filename=os.path.join(root_path, "logs/train_and_save_model.log"),
 )
+
 
 # Add code to load in the data.
 def train_and_save_model(input_data_path, model_file_path):
@@ -48,19 +50,21 @@ def train_and_save_model(input_data_path, model_file_path):
 
     y_test_hat = inference(model, X_test)
     precision, recall, fbeta = compute_model_metrics(y_test, y_test_hat)
-    logging.info(f"precision: {precision: .3f}, recall: {recall: .3f}, fbeta: {fbeta :.3f}")
+    logging.info(
+        f"precision: {precision: .3f}, recall: {recall: .3f}, fbeta: {fbeta :.3f}"
+    )
 
     dump(
         model,
-        open(f"{model_file_path}/model.joblib",'wb'),
+        open(f"{model_file_path}/model.joblib", "wb"),
     )
     dump(
         encoder,
-        open(f"{model_file_path}/encoder.joblib",'wb'),
+        open(f"{model_file_path}/encoder.joblib", "wb"),
     )
     dump(
         lb,
-        open(f"{model_file_path}/lb.joblib",'wb'),
+        open(f"{model_file_path}/lb.joblib", "wb"),
     )
 
     logging.info("Save trained model")

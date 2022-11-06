@@ -48,7 +48,7 @@ def compute_model_metrics(y, preds):
 
 
 def inference(model, X):
-    """ Run model inferences and return the predictions.
+    """Run model inferences and return the predictions.
 
     Inputs
     ------
@@ -62,5 +62,5 @@ def inference(model, X):
         Predictions from the model.
     """
     preds = model.predict(X)
-    
+
     return preds

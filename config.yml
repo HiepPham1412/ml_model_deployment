@@ -2,22 +2,15 @@ features:
   categorical_features: [
         "workclass",
         "education",
-        "marital-status",
+        "marital_status",
         "occupation",
         "relationship",
         "race",
         "sex",
-        "native-country",
+        "native_country",
     ]
-  all_features: [ 'age',
-      'workclass',
-      'fnlgt',
-      'education',
-      'marital_status',
-      'occupation',
-      'relationship',
-      'race',
-      'sex',
-      'hours_per_week',
-      'native_country'
-    ]
+  continious_features: [
+                  'age',
+                  'fnlgt',
+                  'hours_per_week'
+                  ]
