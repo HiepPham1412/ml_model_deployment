@@ -1,102 +1,101 @@
-precision:  0.649, recall: 0.474, fbeta:  0.548
-precision:  0.735, recall: 0.650, fbeta:  0.690
-precision:  0.744, recall: 0.522, fbeta:  0.613
-precision:  0.613, recall: 0.286, fbeta:  0.390
-precision:  0.757, recall: 0.791, fbeta:  0.774
-precision:  0.785, recall: 0.705, fbeta:  0.743
-precision:  0.724, recall: 0.698, fbeta:  0.711
-precision:  1.000, recall: 1.000, fbeta:  1.000
-precision:  1.000, recall: 1.000, fbeta:  1.000
-precision:  0.604, recall: 0.185, fbeta:  0.283
-precision:  0.730, recall: 0.788, fbeta:  0.758
-precision:  0.647, recall: 0.405, fbeta:  0.498
-precision:  0.821, recall: 0.825, fbeta:  0.823
-precision:  0.688, recall: 0.396, fbeta:  0.503
-precision:  0.857, recall: 0.916, fbeta:  0.885
-precision:  1.000, recall: 0.000, fbeta:  0.000
-precision:  1.000, recall: 0.000, fbeta:  0.000
-precision:  0.725, recall: 0.505, fbeta:  0.596
-precision:  0.250, recall: 0.021, fbeta:  0.039
-precision:  1.000, recall: 0.056, fbeta:  0.105
-precision:  0.848, recall: 0.920, fbeta:  0.882
-precision:  0.250, recall: 0.095, fbeta:  0.138
-precision:  0.333, recall: 0.024, fbeta:  0.045
-precision:  1.000, recall: 1.000, fbeta:  1.000
-precision:  1.000, recall: 0.000, fbeta:  0.000
-precision:  0.733, recall: 0.630, fbeta:  0.677
-precision:  0.812, recall: 0.159, fbeta:  0.266
-precision:  0.812, recall: 0.157, fbeta:  0.263
-precision:  0.600, recall: 0.125, fbeta:  0.207
-precision:  0.000, recall: 0.000, fbeta:  0.000
-precision:  0.875, recall: 0.156, fbeta:  0.264
-precision:  1.000, recall: 0.286, fbeta:  0.444
-precision:  0.747, recall: 0.725, fbeta:  0.736
-precision:  0.784, recall: 0.810, fbeta:  0.796
-precision:  0.551, recall: 0.123, fbeta:  0.201
-precision:  0.750, recall: 0.814, fbeta:  0.781
-precision:  0.500, recall: 0.038, fbeta:  0.071
-precision:  0.673, recall: 0.524, fbeta:  0.589
-precision:  0.613, recall: 0.286, fbeta:  0.390
-precision:  0.571, recall: 0.087, fbeta:  0.151
-precision:  0.603, recall: 0.147, fbeta:  0.236
-precision:  0.686, recall: 0.332, fbeta:  0.448
-precision:  0.750, recall: 0.158, fbeta:  0.261
-precision:  0.357, recall: 0.078, fbeta:  0.128
-precision:  0.735, recall: 0.483, fbeta:  0.583
-precision:  0.000, recall: 0.000, fbeta:  0.000
-precision:  1.000, recall: 1.000, fbeta:  1.000
-precision:  0.737, recall: 0.633, fbeta:  0.681
-precision:  0.808, recall: 0.165, fbeta:  0.274
-precision:  0.286, recall: 0.045, fbeta:  0.078
-precision:  0.810, recall: 0.108, fbeta:  0.190
-precision:  0.719, recall: 0.618, fbeta:  0.665
-precision:  0.385, recall: 0.185, fbeta:  0.250
-precision:  0.741, recall: 0.567, fbeta:  0.643
-precision:  0.677, recall: 0.392, fbeta:  0.497
-precision:  0.712, recall: 0.636, fbeta:  0.672
-precision:  0.538, recall: 0.333, fbeta:  0.412
-precision:  0.500, recall: 0.440, fbeta:  0.468
-precision:  0.736, recall: 0.582, fbeta:  0.650
-precision:  0.728, recall: 0.437, fbeta:  0.546
-precision:  0.738, recall: 0.559, fbeta:  0.636
-precision:  0.818, recall: 0.529, fbeta:  0.643
-precision:  0.862, recall: 0.610, fbeta:  0.714
-precision:  0.750, recall: 0.522, fbeta:  0.615
-precision:  0.714, recall: 0.200, fbeta:  0.312
-precision:  0.707, recall: 0.648, fbeta:  0.676
-precision:  0.667, recall: 0.545, fbeta:  0.600
-precision:  0.467, recall: 0.583, fbeta:  0.519
-precision:  0.720, recall: 0.529, fbeta:  0.610
-precision:  0.500, recall: 1.000, fbeta:  0.667
-precision:  0.500, recall: 0.333, fbeta:  0.400
-precision:  0.714, recall: 0.500, fbeta:  0.588
-precision:  0.690, recall: 0.741, fbeta:  0.714
-precision:  0.333, recall: 0.125, fbeta:  0.182
-precision:  1.000, recall: 0.500, fbeta:  0.667
-precision:  1.000, recall: 0.000, fbeta:  0.000
-precision:  0.727, recall: 0.727, fbeta:  0.727
-precision:  0.000, recall: 0.000, fbeta:  0.000
-precision:  1.000, recall: 0.500, fbeta:  0.667
-precision:  0.889, recall: 0.444, fbeta:  0.593
-precision:  0.867, recall: 0.867, fbeta:  0.867
-precision:  1.000, recall: 0.400, fbeta:  0.571
-precision:  1.000, recall: 0.333, fbeta:  0.500
-precision:  0.684, recall: 0.812, fbeta:  0.743
-precision:  0.706, recall: 0.800, fbeta:  0.750
-precision:  1.000, recall: 0.333, fbeta:  0.500
-precision:  1.000, recall: 0.167, fbeta:  0.286
-precision:  0.200, recall: 0.167, fbeta:  0.182
-precision:  1.000, recall: 0.500, fbeta:  0.667
-precision:  1.000, recall: 0.000, fbeta:  0.000
-precision:  0.667, recall: 0.833, fbeta:  0.741
-precision:  0.600, recall: 0.750, fbeta:  0.667
-precision:  0.750, recall: 0.600, fbeta:  0.667
-precision:  1.000, recall: 1.000, fbeta:  1.000
-precision:  1.000, recall: 1.000, fbeta:  1.000
-precision:  0.500, recall: 0.500, fbeta:  0.500
-precision:  1.000, recall: 1.000, fbeta:  1.000
-precision:  1.000, recall: 0.250, fbeta:  0.400
-precision:  0.500, recall: 1.000, fbeta:  0.667
-precision:  0.667, recall: 0.400, fbeta:  0.500
-precision:  1.000, recall: 0.000, fbeta:  0.000
-precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: workclass, precision:  0.778, recall: 0.805, fbeta:  0.791
+feat: workclass, precision:  0.745, recall: 0.499, fbeta:  0.597
+feat: workclass, precision:  0.600, recall: 0.258, fbeta:  0.361
+feat: workclass, precision:  0.747, recall: 0.694, fbeta:  0.719
+feat: workclass, precision:  0.682, recall: 0.450, fbeta:  0.543
+feat: workclass, precision:  0.763, recall: 0.699, fbeta:  0.729
+feat: workclass, precision:  0.699, recall: 0.647, fbeta:  0.672
+feat: workclass, precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: workclass, precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: education, precision:  0.624, recall: 0.178, fbeta:  0.277
+feat: education, precision:  0.645, recall: 0.358, fbeta:  0.460
+feat: education, precision:  0.660, recall: 0.368, fbeta:  0.473
+feat: education, precision:  1.000, recall: 0.048, fbeta:  0.091
+feat: education, precision:  0.734, recall: 0.782, fbeta:  0.757
+feat: education, precision:  0.833, recall: 0.928, fbeta:  0.878
+feat: education, precision:  0.250, recall: 0.021, fbeta:  0.039
+feat: education, precision:  0.750, recall: 0.065, fbeta:  0.120
+feat: education, precision:  0.804, recall: 0.831, fbeta:  0.817
+feat: education, precision:  0.000, recall: 0.000, fbeta:  0.000
+feat: education, precision:  0.870, recall: 0.912, fbeta:  0.891
+feat: education, precision:  0.715, recall: 0.461, fbeta:  0.561
+feat: education, precision:  1.000, recall: 0.000, fbeta:  0.000
+feat: education, precision:  1.000, recall: 0.083, fbeta:  0.154
+feat: education, precision:  0.500, recall: 0.080, fbeta:  0.138
+feat: education, precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: marital_status, precision:  0.736, recall: 0.612, fbeta:  0.669
+feat: marital_status, precision:  0.772, recall: 0.129, fbeta:  0.222
+feat: marital_status, precision:  1.000, recall: 0.196, fbeta:  0.327
+feat: marital_status, precision:  0.750, recall: 0.049, fbeta:  0.092
+feat: marital_status, precision:  0.759, recall: 0.140, fbeta:  0.236
+feat: marital_status, precision:  0.800, recall: 0.182, fbeta:  0.296
+feat: marital_status, precision:  1.000, recall: 0.111, fbeta:  0.200
+feat: occupation, precision:  0.762, recall: 0.808, fbeta:  0.784
+feat: occupation, precision:  0.646, recall: 0.337, fbeta:  0.443
+feat: occupation, precision:  0.711, recall: 0.529, fbeta:  0.607
+feat: occupation, precision:  0.613, recall: 0.111, fbeta:  0.188
+feat: occupation, precision:  0.485, recall: 0.073, fbeta:  0.127
+feat: occupation, precision:  0.764, recall: 0.808, fbeta:  0.785
+feat: occupation, precision:  0.600, recall: 0.258, fbeta:  0.361
+feat: occupation, precision:  0.750, recall: 0.030, fbeta:  0.058
+feat: occupation, precision:  0.732, recall: 0.420, fbeta:  0.533
+feat: occupation, precision:  0.737, recall: 0.651, fbeta:  0.691
+feat: occupation, precision:  0.250, recall: 0.034, fbeta:  0.061
+feat: occupation, precision:  0.800, recall: 0.050, fbeta:  0.094
+feat: occupation, precision:  0.560, recall: 0.075, fbeta:  0.133
+feat: occupation, precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: occupation, precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: relationship, precision:  0.741, recall: 0.616, fbeta:  0.673
+feat: relationship, precision:  0.545, recall: 0.133, fbeta:  0.214
+feat: relationship, precision:  0.826, recall: 0.121, fbeta:  0.211
+feat: relationship, precision:  0.286, recall: 0.083, fbeta:  0.129
+feat: relationship, precision:  0.766, recall: 0.140, fbeta:  0.237
+feat: relationship, precision:  0.717, recall: 0.597, fbeta:  0.651
+feat: race, precision:  0.741, recall: 0.551, fbeta:  0.632
+feat: race, precision:  0.709, recall: 0.623, fbeta:  0.663
+feat: race, precision:  0.700, recall: 0.368, fbeta:  0.483
+feat: race, precision:  0.732, recall: 0.375, fbeta:  0.496
+feat: race, precision:  0.474, recall: 0.375, fbeta:  0.419
+feat: sex, precision:  0.741, recall: 0.563, fbeta:  0.640
+feat: sex, precision:  0.719, recall: 0.424, fbeta:  0.533
+feat: native_country, precision:  0.739, recall: 0.542, fbeta:  0.625
+feat: native_country, precision:  0.500, recall: 0.111, fbeta:  0.182
+feat: native_country, precision:  0.714, recall: 0.714, fbeta:  0.714
+feat: native_country, precision:  0.667, recall: 0.500, fbeta:  0.571
+feat: native_country, precision:  0.400, recall: 0.286, fbeta:  0.333
+feat: native_country, precision:  0.727, recall: 0.593, fbeta:  0.653
+feat: native_country, precision:  0.714, recall: 0.556, fbeta:  0.625
+feat: native_country, precision:  0.667, recall: 0.667, fbeta:  0.667
+feat: native_country, precision:  1.000, recall: 0.667, fbeta:  0.800
+feat: native_country, precision:  0.818, recall: 0.429, fbeta:  0.562
+feat: native_country, precision:  0.762, recall: 0.696, fbeta:  0.727
+feat: native_country, precision:  0.778, recall: 0.667, fbeta:  0.718
+feat: native_country, precision:  0.846, recall: 0.500, fbeta:  0.629
+feat: native_country, precision:  0.889, recall: 0.471, fbeta:  0.615
+feat: native_country, precision:  0.667, recall: 0.769, fbeta:  0.714
+feat: native_country, precision:  0.812, recall: 0.481, fbeta:  0.605
+feat: native_country, precision:  0.613, recall: 0.679, fbeta:  0.644
+feat: native_country, precision:  1.000, recall: 0.167, fbeta:  0.286
+feat: native_country, precision:  1.000, recall: 0.000, fbeta:  0.000
+feat: native_country, precision:  1.000, recall: 0.400, fbeta:  0.571
+feat: native_country, precision:  1.000, recall: 0.429, fbeta:  0.600
+feat: native_country, precision:  0.250, recall: 0.125, fbeta:  0.167
+feat: native_country, precision:  1.000, recall: 0.500, fbeta:  0.667
+feat: native_country, precision:  0.773, recall: 0.548, fbeta:  0.642
+feat: native_country, precision:  0.800, recall: 0.857, fbeta:  0.828
+feat: native_country, precision:  1.000, recall: 0.500, fbeta:  0.667
+feat: native_country, precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: native_country, precision:  0.500, recall: 0.462, fbeta:  0.480
+feat: native_country, precision:  0.667, recall: 0.667, fbeta:  0.667
+feat: native_country, precision:  1.000, recall: 0.333, fbeta:  0.500
+feat: native_country, precision:  1.000, recall: 0.667, fbeta:  0.800
+feat: native_country, precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: native_country, precision:  1.000, recall: 0.000, fbeta:  0.000
+feat: native_country, precision:  1.000, recall: 0.500, fbeta:  0.667
+feat: native_country, precision:  1.000, recall: 1.000, fbeta:  1.000
+feat: native_country, precision:  1.000, recall: 0.000, fbeta:  0.000
+feat: native_country, precision:  1.000, recall: 0.667, fbeta:  0.800
+feat: native_country, precision:  0.500, recall: 1.000, fbeta:  0.667
+feat: native_country, precision:  1.000, recall: 0.400, fbeta:  0.571
+feat: native_country, precision:  0.667, recall: 0.750, fbeta:  0.706
+feat: native_country, precision:  0.750, recall: 0.750, fbeta:  0.750

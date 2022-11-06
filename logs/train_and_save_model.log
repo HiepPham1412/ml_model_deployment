@@ -1,20 +1,2 @@
-2022-10-31 19:04:20,714 : INFO : precision:  0.777, recall:  0.618, fbeta: 0.689
-2022-10-31 19:04:20,724 : INFO : Save trained model
-2022-10-31 19:05:03,443 : INFO : precision:  0.767, recall:  0.599, fbeta: 0.672
-2022-10-31 19:05:03,450 : INFO : Save trained model
-2022-10-31 19:05:55,046 : INFO : precision:  0.775, recall:  0.604, fbeta: 0.679
-2022-10-31 19:05:55,052 : INFO : Save trained model
-2022-10-31 19:12:57,286 : INFO : precision:  0.793, recall:  0.604, fbeta: 0.685
-2022-10-31 19:12:57,293 : INFO : Save trained model
-2022-10-31 19:18:05,582 : INFO : precision:  0.784, recall:  0.581, fbeta: 0.667
-2022-10-31 19:18:05,589 : INFO : Save trained model
-2022-11-06 15:41:50,218 : INFO : precision:  0.801, recall:  0.618, fbeta: 0.698
-2022-11-06 15:41:50,227 : INFO : Save trained model
-2022-11-06 15:47:22,175 : INFO : precision:  0.790, recall:  0.595, fbeta: 0.679
-2022-11-06 15:47:22,182 : INFO : Save trained model
-2022-11-06 15:47:52,462 : INFO : precision:  0.772, recall:  0.617, fbeta: 0.686
-2022-11-06 15:47:52,472 : INFO : Save trained model
-2022-11-06 15:56:51,472 : INFO : precision:  0.743, recall:  0.548, fbeta: 0.631
-2022-11-06 15:56:51,482 : INFO : Save trained model
-2022-11-06 15:57:18,290 : INFO : precision:  0.705, recall:  0.538, fbeta: 0.610
-2022-11-06 15:57:18,296 : INFO : Save trained model
+2022-11-06 17:45:52,753 : INFO : precision:  0.729, recall:  0.531, fbeta: 0.614
+2022-11-06 17:45:52,761 : INFO : Save trained model
